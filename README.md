@@ -1,2 +1,1 @@
-# odd-innocent.github.com
-hello
+# odd.innocent
